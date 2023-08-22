@@ -2,7 +2,7 @@
 1. [Que es](#que-es)
 2. [como surgio](#como-surgio)
 3. [sus inicios](#sus-inicios)
-4. [Collaboration](#collaboration)
+4. [Tecnologia](#Tecnologia)
 5. [FAQs](#faqs)
 ### General Info
 ***
